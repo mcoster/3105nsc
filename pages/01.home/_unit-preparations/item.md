@@ -1,6 +1,6 @@
 ---
 title: 'Class Preparations'
-published: true
+published: false
 header_image_file: /home/unit-05/13966760787_2d0975e6bc_k.jpg
 ---
 

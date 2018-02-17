@@ -7,80 +7,78 @@ hide_git_sync_repo_link: false
 
 #### [:fa-calendar: Week 1 (26 Feb - 4 Mar)](/home/unit-01)
 **Introduction and Reaction mechanisms**  
-:fa-pencil: Create [BACON account](https://learnbacon.com/) by 28th Feb
-:fa-pencil: Complete "Functional Groups" and "Aromaticity" [BACON tutorials](https://learnbacon.com/) by 5th March
-:fa-desktop: _INSERT SLIDES/PRESENTATIONS_[plugin:page-inject](/slides/unit-01-1?template=swipedecklinkonly)
-:fa-desktop: [plugin:page-inject](/slides/unit-01-2?template=swipedecklinkonly)
-:fa-book:[plugin:page-inject](/required-readings/unit-01?template=embedlycardlinkonly)  
+:fa-pencil: Create [BACON account](https://learnbacon.com/) by 28 Feb  
+:fa-pencil: Complete _Functional Groups_ and _Aromaticity_ [BACON tutorials](https://learnbacon.com/) by 5 March  
+:fa-book: [Klein, Chapter 6](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)
 
-#### [:fa-calendar: Week 2 (4 - 10 Mar)](/home/unit-02)
+#### :fa-calendar: Week 2 (5 - 11 Mar)
 **Reaction mechanisms and Group assignment instructions**  
-:fa-pencil: [Project Proposal](https://canvas.sfu.ca/courses/36662/assignments/267529) due Sep 19th  
-:fa-desktop: [plugin:page-inject](/slides/unit-02?template=swipedecklinkonly)
-:fa-book: [plugin:page-inject](/required-readings/unit-02?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  
+:fa-pencil: Choose a group assignment topic by 9 March   
+:fa-pencil: Complete _Radicals_ [BACON tutorial](https://learnbacon.com/) by 12 March  
+:fa-book: [Klein, Chapter 10](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=455)  
 
-#### [:fa-calendar: Week 3 (Sep 20 - 26)](/home/unit-03)
-**How to make more strategic design decisions?**   
-:fa-pencil: [Project Brief](https://canvas.sfu.ca/courses/36662/assignments/267543) and [Reflective Log](https://canvas.sfu.ca/courses/36662/assignments/267544) due Sep 26th  
-:fa-desktop: [plugin:page-inject](/slides/unit-03?template=swipedecklinkonly)
-:fa-book: [plugin:page-inject](/required-readings/unit-03?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  
+#### :fa-calendar: Week 3 (12 - 18 Mar)
+**Quiz #1 and Carbanion chemistry**   
+:fa-file-o: Quiz #1, 8.30 am, 12 March (N18_Theatre 2)  
+:fa-pencil: Complete _Aldehydes & Ketones_ [BACON tutorial](https://learnbacon.com/) by 19 March  
+:fa-book: [Klein, Chapter 19](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=864)  
 
-#### [:fa-calendar: Week 4 (Sep 27 - Oct 3)](/home/unit-04)
-**How to conduct a usability inspection?**   
-:fa-pencil: [Usability Inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) assignment due Oct 10th  
-:fa-file: [Usability Inspection Report Template](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Usability%20Inspection%20Report%20Template)  
-:fa-desktop: [plugin:page-inject](/slides/unit-04?template=swipedecklinkonly)
-:fa-book: [plugin:page-inject](/required-readings/unit-04?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  
+#### :fa-calendar: Week 4 (19 - 25 Mar)
+**Carbanion chemistry**   
+:fa-pencil: Complete _Enols & Enolates_ [BACON tutorial](https://learnbacon.com/) by 26 March  
+:fa-book: [Klein, Chapter 21](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=974)   
 
-#### [:fa-calendar: Week 5 (Oct 4 - 10)](/home/unit-05)
-**How to understand and communicate people's needs and behaviors?**   
-:fa-desktop: [plugin:page-inject](/slides/unit-05?template=swipedecklinkonly)
-:fa-book: [plugin:page-inject](/required-readings/unit-05?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  <br>
+#### :fa-calendar: Week 5 (26 - 29 Mar)
+**Quiz #2 and Pericyclic reactions**   
+:fa-file-o: Quiz #2, 8.30 am, Mon 26 March (N18_Theatre 2)  
+:fa-pencil: Complete _Substitution Reactions_ and _Elimination Reactions_ [BACON tutorials](https://learnbacon.com/) by 16 Apr  
+:fa-file: Group assignment drafts due Thursday, 29 March  
+:fa-book: [Klein, Chapter 19](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=864)  
 
-#### [:fa-calendar: Week 6 (Oct 11 - 17)](/home/unit-06)
-**How to plan, conduct, and summarize usability tests?**  
-:fa-pencil: [Usability Inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) assignment peer reviews due Oct 17th  
-:fa-desktop: [plugin:page-inject](/slides/unit-06?template=swipedecklinkonly)
-:fa-book: [plugin:page-inject](/required-readings/unit-06?template=embedlycardlinkonly)  
+#### :fa-calendar: Easter vacation (30 Mar - 15 Apr)
+**No classes**
+:fa-dumbbell: Enjoy the [Commonwealth Games!](https://www.gc2018.com/)
 
-#### :fa-calendar: Week 7 (Oct 18 - 24)
-**How to explore and communicate possible design solutions?**  
-:fa-pencil: [User Research and Usability Benchmarks](https://canvas.sfu.ca/courses/36662/assignments/267546) and [Reflective Log](https://canvas.sfu.ca/courses/36662/assignments/267547) due Nov 7th  
-:fa-file-o: [Team Member Evaluation](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Team%20Member%20Evaluations) for assignment #3 due in class Nov 8th   
-:fa-folder: [Informed Consent Materials](https://canvas.sfu.ca/courses/36662/files/folder/Informed%20Consent)  
-:fa-desktop: Prototyping  
-:fa-book: [plugin:page-inject](/required-readings/unit-07?template=embedlycardlinkonly)
+#### :fa-calendar: Week 6 (16 - 22 Apr)
+**Pericyclic reactions and reactive intermediates**  
+:fa-pencil: Complete _Diels-Alder & Pericyclic reactions_ [BACON tutorial](https://learnbacon.com/) by 23 Apr  
+:fa-file: Group assignment peer-to-peer feedback due Fri, 20 Apr  
+:fa-book: [Klein, Chapter 16](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=721)  
 
-#### :fa-calendar: Week 8 (Oct 25 - Oct 31)
-**How to design products for how people think, learn and feel?**  
-:fa-desktop: Interaction Design  
-:fa-book: [plugin:page-inject](/required-readings/unit-08?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  
+#### :fa-calendar: Week 7 (23 - 29 Apr)
+**Quiz #3**  
+:fa-file-o: Quiz #3, 8.30 am, Mon 30 April (N18_Theatre 2)  
+:fa-pencil: Complete _Polymers_ [BACON tutorial](https://learnbacon.com/) by 30 Apr  
+:fa-flask: Lab classes start this week  
+:fa-calendar-times: _No classes 25 April_ (ANZAC Day)
 
-#### :fa-calendar: Week 9 (Nov 1 - 7)
-**How to design for mobile and multi-device usage?**  
-:fa-desktop: Mobile and Multi-device Design  
-:fa-book: [plugin:page-inject](/required-readings/unit-09?template=embedlycardlinkonly)  
-:fa-users: In-class office hours (tentative)  
+#### :fa-calendar: Week 8 (30 Apr - 6 May)
+**Organometallic reactions**  
+:fa-pencil: Complete _NMR & IR Spectroscopy_ and _Mass Spectrometry_ [BACON tutorials](https://learnbacon.com/) by 7 May  
+:fa-file: Group assignment FINAL submission due Fri, 4 May  
+:fa-book: [Klein, Chapter 23](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=1074)  
 
-#### :fa-calendar: Week 10 (Nov 8 - 14)
-**What are the essentials of effective visual communication?**   
-:fa-pencil: [Design Mockups and Usability Tests](https://canvas.sfu.ca/courses/36662/assignments/267540) and [Reflective Log](https://canvas.sfu.ca/courses/36662/assignments/267541) due Nov 28th  
-:fa-file-o: [Team Member Evaluation](https://canvas.sfu.ca/courses/36662/files/folder/Handouts/Team%20Member%20Evaluations) for assignment #4 due via email Nov 28th  
-:fa-folder: [Informed Consent Materials](https://canvas.sfu.ca/courses/36662/files/folder/Informed%20Consent)  
-:fa-desktop: Visual Design Essentials  
-:fa-book: [plugin:page-inject](/required-readings/unit-10?template=embedlycardlinkonly)   
-:fa-users: In-class office hours (tentative)  
+#### :fa-calendar: Week 9 (7 - 13 May)
+**Organometallic reactions**  
+:fa-pencil: Complete _Cross Coupling Reactions_ [BACON tutorial](https://learnbacon.com/) by 14 May  
+:fa-calendar-times: _No classes 7 May_ (Labour Day)  
 
-#### :fa-calendar: Week 11 (Nov 15 - 21)
-**Instructor Design Review Meetings**  
-TBD  
-<i class="fa fa-book" aria-hidden="true"></i> [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)   
+#### :fa-calendar: Week 10 (14 - 20 May)
+**Quiz #4 and Stereochemistry**   
+:fa-file-o: Quiz #4, 8.30 am, Mon 14 May (N18_Theatre 2)  
+:fa-pencil: Complete _Alkenes & Alkynes_ [BACON tutorial](https://learnbacon.com/) by 21 May  
+:fa-book: [Klein, Chapter 5](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=201)  
 
-#### :fa-calendar: Week 12 (Nov 22 - 28)
-**Special Topics/Industry Guest Speakers**  
-TBD  
+#### :fa-calendar: Week 11 (21 - 27 May)
+**Stereochemistry, carbohydrates and asymmetric synthesis**  
+:fa-pencil: Complete _Stereochemistry & Chirality_ [BACON tutorial](https://learnbacon.com/) by 28 May  
+:fa-book: Klein, [Chapter 11](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=499); [Chapter 24, Sections 24.1-24.6](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=1127)  
+
+#### :fa-calendar: Week 12 (28 May - 3 June)
+**Quiz #5**   
+:fa-file-o: Quiz #5, 8.30 am, Mon 28 May (N18_Theatre 2)  
+:fa-file: First Lab report due Wed, 30 May  
+
+#### :fa-calendar: Week 14 (11 - 17 June)
+**Second Lab report due**   
+:fa-file: Second Lab report due Fri, 15 June  
