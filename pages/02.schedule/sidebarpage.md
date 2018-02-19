@@ -5,7 +5,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-#### [:fa-calendar: Week 1 (26 Feb - 4 Mar)](/home/unit-01)
+#### [:fa-calendar: Week 1 (26 Feb - 4 Mar)](/home/week-01)
 **Introduction and Reaction mechanisms**  
 :fa-pencil: Create [BACON account](https://learnbacon.com/) by 28 Feb  
 :fa-pencil: Complete _Functional Groups_ and _Aromaticity_ [BACON tutorials](https://learnbacon.com/) by 5 March  
@@ -78,6 +78,8 @@ hide_git_sync_repo_link: false
 **Quiz #5**   
 :fa-file-o: Quiz #5, 8.30 am, Mon 28 May (N18_Theatre 2)  
 :fa-file: First Lab report due Wed, 30 May  
+
+
 
 #### :fa-calendar: Week 14 (11 - 17 June)
 **Second Lab report due**   
