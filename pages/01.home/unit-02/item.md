@@ -1,7 +1,7 @@
 ---
 title: 'Week 2 (Sep 13 - 19)'
 date: 09/13/2017
-published: true
+published: false
 hide_from_post_list: false
 hide_git_sync_repo_link: false
 ---
@@ -12,6 +12,14 @@ hide_git_sync_repo_link: false
 [Our Design Process (aka Toolkit)](https://www.swipe.to/9967fp?p=1Mb9rDTJS)  
 
 ===
+
+
+My stuff...
+
+[Reaction mechanisms - Lecture 3](https://echo360.org.au/media/6bff5d81-a306-4fc2-b14a-261ef1c5fb9f/public)  
+[Reaction mechanisms - Lecture 4](https://echo360.org.au/media/be7fea5b-6080-45ed-b642-71e56253c669/public)  
+
+,,,
 
 ##### Summaries and Questions  
 [Sep 13th Class One-minute Summaries](https://canvas.sfu.ca/courses/36662/assignments/267537)

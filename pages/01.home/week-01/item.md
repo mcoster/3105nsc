@@ -32,35 +32,37 @@ Reaction mechanisms fascinate organic chemists. Why is that? A mechanism, like a
 For this cycle, you will need to read [Chapter 6 of Klein]((https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)) and watch the following _Key Concept_ videos. Do it in either order - whatever works for you.
 
 ##### Kinetic vs thermodynamic control  
-A key concept to master in organic chemistry is the difference between _kinetic_ and _thermodynamic_ control in reaction outcomes. As you watch this video, consider this question - **_why is there sometimes a difference between the kinetic and the thermodynamic products of a reaction?_**  
+A key concept to master in organic chemistry is the difference between _kinetic_ and _thermodynamic_ control in reaction outcomes. As you watch this video, consider this question - _why is there sometimes a difference between the kinetic and the thermodynamic products of a reaction?_  
 
 [plugin:youtube](https://www.youtube.com/watch?v=-HLU4uJ8Ev8)
 
 For an unusual take on thermodynamic vs kinetic control, [read this post](https://www.masterorganicchemistry.com/2012/02/09/can-opener-economics/) at Master Organic Chemistry (MOC).  
 
 ##### The Hammond postulate  
-Next up is the **Hammond postulate**:  
+Next up is the _Hammond postulate:_  
 
 [plugin:youtube](https://www.youtube.com/watch?v=Et0Y7z-sLUg)  
-Now that you've watched the video, **_can you think of any situations where the postulate might be useful in predicting or explaining a reaction outcome?_** For further discussion of the Hammond postulate, read [this post](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/) at MOC.  
+Now that you've watched the video, _can you think of any situations where the postulate might be useful in predicting or explaining a reaction outcome?_ For further discussion of the Hammond postulate, read [this post](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/) at MOC.  
 
 ##### Curly arrows in ionic mechanisms  
 Moving away from energy diagrams, perhaps the most important skill for an organic chemist in proposing a mechanism is the ability to "push" curly arrows. Here are some guidelines about the four types of steps that can be combined together to show mechanisms for the majority of organic reactions:  
 
 [plugin:youtube](https://www.youtube.com/watch?v=OrIy0xpZgmA)  
 
-I mention in that video that carbon atoms with 5 bonds are "against the rules". What rules am I talking about? Why is this the case? This is actually one of the most common mistakes made by undergraduate students in exams and quizzes. The pentavalent carbon atom, or [_"Texas carbon"_](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/), sticks out like a sore thumb to experienced chemists. **_What tricks could you use to avoid making a "Texas carbon" mistake in a quiz?_**
+I mention in that video that carbon atoms with 5 bonds are "against the rules". What rules am I talking about? Why is this the case? This is actually one of the most common mistakes made by undergraduate students in exams and quizzes. The pentavalent carbon atom, or [_"Texas carbon"_](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/), sticks out like a sore thumb to experienced chemists. _What tricks could you use to avoid making a "Texas carbon" mistake in a quiz?_  
 
-**_INSERT LINKS to BLACKBOARD SLIDE FILES_**
+### Further information  
 
-**_Paul's content below..._**
+#### Week 1 Lecture notes  
+[Cycle 1: Introduction](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775152_1)  
+[Cycle 1: Lectures 1-2](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775154_1)  
 
-##### Recommended Reading  
-[plugin:page-inject](/required-readings/unit-01)
+#### Further video resources  
+If you would like further explanation of these concepts in long-form lecture format, below are the lecture capture recordings for this cycle from 2017. _Note:_ You need to be logged in through Griffith University to access.  
+[Reaction mechanisms - Lecture 1](https://echo360.org.au/media/4e2623ca-5bab-4a9c-a73c-43f941969495/public)  
+[Reaction mechanisms - Lecture 2](https://echo360.org.au/media/358e9ae5-1fb8-41f1-8aa1-c472106e5946/public)  
 
-##### Supplemental Readings  
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/problem-statements)
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/usability)
-[plugin:content-inject](/ux-techniques/what-is-usability-and-user-experience-design/user-experience-design)  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques) or the course [Resources](../../resources).
+#### Supplemental Readings  
+[Kinetics vs thermodynamics](https://www.masterorganicchemistry.com/2012/02/09/can-opener-economics/)  
+[The Hammond postulate](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/)  
+[Common mistakes in organic chemistry - the pentavalent carbon atom](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/)
