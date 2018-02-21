@@ -10,7 +10,7 @@ Mark Coster
 [mcoster.net](https://mcoster.net)  
 GRIDD (N75) Rm 2.05C _or_
 Technology (N44) Rm 3.25  
-[Book an appointment](https://mcoster.youcanbook.me/)
+[Book an appointment](https://calendly.com/mcoster/15min)
 
 
 #### Course links
