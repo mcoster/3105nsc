@@ -9,7 +9,7 @@ content:
     order:
         by: date
         dir: desc
-    pagination: true
+    pagination: '1'
 modular_content:
     items: '@self.modular'
     order:
@@ -28,3 +28,4 @@ metadata:
     'twitter:description': 'Grav CMS Open Course Hub Description'
     'twitter:image': ''
 ---
+
