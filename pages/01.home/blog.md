@@ -18,14 +18,14 @@ modular_content:
             - _important-reminders
             - _unit-preparations
 feed:
-    description: 'Grav CMS Open Course Hub Description'
+    description: '3105NSC Advanced Organic Chemistry'
     limit: 10
 hide_git_sync_repo_link: false
 metadata:
     'twitter:card': summary
     'twitter:site': '@getgrav'
-    'twitter:title': 'Grav CMS Open Course Hub Title'
-    'twitter:description': 'Grav CMS Open Course Hub Description'
+    'twitter:title': '3105NSC Advanced Organic Chemistry'
+    'twitter:description': 'Course Hub website for 3105NSC Advanced Organic Chemistry at Griffith University'
     'twitter:image': ''
 ---
 
