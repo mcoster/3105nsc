@@ -29,5 +29,6 @@ metadata:
     'og:description': 'Course Hub website for 3105NSC Advanced Organic Chemistry at Griffith University'
     'twitter:image': 'https://3105nsc.mcoster.net/user/pages/01.home/3105NSC-twitter-image.JPG'
     'og:image': 'https://3105nsc.mcoster.net/user/pages/01.home/3105NSC-og-image-resized.jpg'
+    'og:url': 'https://3105nsc.mcoster.net'
 ---
 
