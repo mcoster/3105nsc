@@ -24,8 +24,9 @@ hide_git_sync_repo_link: false
 metadata:
     'twitter:card': summary
     'twitter:site': '@getgrav'
-    'twitter:title': '3105NSC Advanced Organic Chemistry'
-    'twitter:description': 'Course Hub website for 3105NSC Advanced Organic Chemistry at Griffith University'
+    'twitter:creator': '@MarkCoster_Chem'
+    'og:title': '3105NSC Advanced Organic Chemistry'
+    'og:description': 'Course Hub website for 3105NSC Advanced Organic Chemistry at Griffith University'
     'twitter:image': 'https://3105nsc.mcoster.net/user/pages/01.home/3105NSC-twitter-image.JPG'
 ---
 
