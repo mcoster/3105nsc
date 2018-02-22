@@ -26,6 +26,6 @@ metadata:
     'twitter:site': '@getgrav'
     'twitter:title': '3105NSC Advanced Organic Chemistry'
     'twitter:description': 'Course Hub website for 3105NSC Advanced Organic Chemistry at Griffith University'
-    'twitter:image': ''
+    'twitter:image': 3105NSC-twitter-image.JPG
 ---
 
