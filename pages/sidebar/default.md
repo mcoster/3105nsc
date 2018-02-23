@@ -17,7 +17,7 @@ Technology (N44) Rm 3.25
 [Calendar](https://www2.griffith.edu.au/__data/assets/pdf_file/0024/118563/2018-Academic-Calendar.pdf)  
 [Course Profile](https://courseprofile.secure.griffith.edu.au/student_section_loader.php?section=1&profileId=99275)  
 [Facebook Discussions](https://www.facebook.com/groups/1765453366820805/)  
-[Feedback & Questions (padlet)](https://padlet.com/m_coster/3105nsc)  
+[Feedback & Questions](https://padlet.com/m_coster/3105nsc)  
 [Learning@Griffith](https://bblearn.griffith.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_64774_1&handle=announcements_entry&mode=view)  
 
 <!-- Begin MailChimp Signup Form -->
