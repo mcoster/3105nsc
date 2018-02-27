@@ -4,5 +4,5 @@ published: true
 ---
 
 ** Important Reminders **  
-* Lectures start 8 am, Monday 26 February (N18_Theatre 2)
 * First [BACON tutorials](https://learnbacon.com/) close 8 am, Monday 5 March
+* Two students are still enrolled in cancelled lab sessions (Thurs & Fri mornings) - please change your enrollment ASAP, or email me if you have problems.
