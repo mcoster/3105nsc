@@ -32,7 +32,7 @@ The key is to look at the carbocation intermediates formed and how they can rear
 
 **_Please note: there is currently an issue with all YouTube videos on this page where the image freezes and audio continues. The current workaround is to watch the video at 1080p resolution. All other resolutions have this problem. I have contacted YouTube - it looks to be a problem that many people are currently experiencing, and that they are looking to rectify._**
 
-[plugin:youtube](https://youtu.be/embed/W6ZMWTLAkU4?vq=hd1080)  
+[plugin:youtube](https://youtu.be/W6ZMWTLAkU4)  
 
 Here's an interesting molecule for you - a "cubane"! The particular cubane shown below is very sensitive, and rearranges to a "homocubane" when exposed to even very mild acid. How do you think this might occur?  
 
