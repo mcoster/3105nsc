@@ -5,6 +5,9 @@ date: '02-03-2018 09:00'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
+youtube:
+    player_parameters:
+        vq: hd1080
 ---
 
 #### How and why do carbocations rearrange? Rearrangements to N and O, and some radical ideas
