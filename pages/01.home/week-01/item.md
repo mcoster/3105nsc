@@ -6,10 +6,10 @@ hide_from_post_list: false
 hide_git_sync_repo_link: false
 ---
 
-##### What is this course all about?
+#### What is this course all about?
 [Course Profile](https://courseprofile.secure.griffith.edu.au/student_section_loader.php?section=1&profileId=99275)
 
-##### Where shall we begin?
+#### Where shall we begin?
 [BACON tutorials](https://learnbacon.com)  
 [_Organic Chemistry_, 3rd ed. by Klein, Chapter 6](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)  
 
