@@ -1,8 +1,9 @@
 ---
 title: 'Week 2 (5 - 11 March)'
-date: 03/01/2018
-published: false
+published: true
+date: '01-03-2018 00:00'
 hide_from_post_list: false
+continue_link: true
 hide_git_sync_repo_link: false
 ---
 
@@ -28,6 +29,8 @@ Why do the reactions below both give the same product, despite using different a
 ![Friedel-Crafts reactions with different alcohol reagents, that give the same product](FC-same-product.png "Same product from two different alcohols")  
 
 The key is to look at the carbocation intermediates formed and how they can rearrange.  
+
+**_Please note: there is an issue with all YouTube videos on this page where the image freezes and audio continues. I have contacted YouTube - it looks to be a problem that many people are currently experiencing. I'm also looking into work-arounds_**
 
 [plugin:youtube](https://youtu.be/W6ZMWTLAkU4)  
 
