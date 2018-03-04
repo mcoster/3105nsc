@@ -1,9 +1,8 @@
 ---
 title: 'Week 1 (26 Feb - 4 Mar)'
+date: 02/19/2018
 published: true
-date: '19-02-2018 00:00'
 hide_from_post_list: false
-continue_link: true
 hide_git_sync_repo_link: false
 ---
 
@@ -55,8 +54,8 @@ I mention in that video that carbon atoms with 5 bonds are "against the rules". 
 ### Further information  
 
 #### Week 1 Lecture notes  
-[Cycle 1: Introduction](https://bblearn.griffith.edu.au/webapps/login/?action=login&new_loc=%2Fbbcswebdav%2Fxid-21775152_1)  
-[Cycle 1: Lectures 1-2](hhttps://bblearn.griffith.edu.au/webapps/login/?action=login&new_loc=%2Fbbcswebdav%2Fxid-21775154_1)  
+[Cycle 1: Introduction](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775152_1)  
+[Cycle 1: Lectures 1-2](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775154_1)  
 
 #### Further video resources  
 If you would like further explanation of these concepts in long-form lecture format, below are the lecture capture recordings for this cycle from 2017. _Note:_ You need to be logged in through Griffith University to access.  
