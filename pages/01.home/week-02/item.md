@@ -11,9 +11,9 @@ hide_git_sync_repo_link: false
 Week 2 focuses on the rearrangements of carbocations, rearrangement reactions where R groups migrate to nitrogen or oxygen atoms, and radical reactions in organic chemistry. Click through for the full details...
 
 #### Readings
-[_Organic Chemistry_, 3rd ed. by Klein, Chapter 6 - Chemical Reactivity and Mechanisms](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)
-[_Organic Chemistry_, 3rd ed. by Klein, Section 19.11 - The Baeyer-Villiger oxidation](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=901)
-[_Organic Chemistry_, 3rd ed. by Klein, Chapter 10 - Radical Reactions](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=455)
+[_Organic Chemistry_, 3rd ed. by Klein, Chapter 6 - Chemical Reactivity and Mechanisms](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)  
+[_Organic Chemistry_, 3rd ed. by Klein, Section 19.11 - The Baeyer-Villiger oxidation](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=901)  
+[_Organic Chemistry_, 3rd ed. by Klein, Chapter 10 - Radical Reactions](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=455)  
 
 ===
 
