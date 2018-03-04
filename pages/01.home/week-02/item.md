@@ -67,8 +67,8 @@ If you would like to explore this topic in more detail, particularly from the ph
 ### Further information  
 
 #### Week 1 Lecture notes  
-[Cycle 1: Lecture 3 - Rearrangements](https://bblearn.griffith.edu.au/bbcswebdav/xid-22480861_1)  
-[Cycle 1: Lecture 4 - Radical reactions](https://bblearn.griffith.edu.au/bbcswebdav/xid-22480863_1)  
+[Cycle 1: Lecture 3 - Rearrangements](https://bblearn.griffith.edu.au/webapps/login/?action=login&new_loc=%2Fbbcswebdav%2Fxid-22480861_1)  
+[Cycle 1: Lecture 4 - Radical reactions](https://bblearn.griffith.edu.au/webapps/login/?action=login&new_loc=%2Fbbcswebdav%2Fxid-22480863_1)  
 
 #### Further video resources  
 If you would like further explanation of these concepts in long-form lecture format, below are the lecture capture recordings for this cycle from 2017. _Note:_ You need to be logged in through Griffith University to access.  
