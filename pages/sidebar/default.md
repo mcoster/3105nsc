@@ -19,6 +19,7 @@ Technology (N44) Rm 3.25
 [Facebook Discussions](https://www.facebook.com/groups/1765453366820805/)  
 [Feedback & Questions](https://padlet.com/m_coster/3105nsc)  
 [Learning@Griffith](https://bblearn.griffith.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_64774_1&handle=announcements_entry&mode=view)  
+[Slack workspace](https://3105nsc-2018.slack.com)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
