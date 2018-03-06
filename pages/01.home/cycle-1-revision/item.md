@@ -13,9 +13,12 @@ In Week 2, we have tutorials on Thursday. Feel free to come along, armed with an
 #### Revision materials  
 [Revision questions](https://bblearn.griffith.edu.au/bbcswebdav/xid-22510578_1)  
 [A past quiz](https://bblearn.griffith.edu.au/bbcswebdav/xid-22510589_1)  
-[The Arrow-pushing Kahoot quiz](https://kahoot.it/challenge/0346756)  
-[Carbocation rearrangements Kahoot quiz](https://kahoot.it/challenge/029622)  
-[Radical reactions Kahoot quiz](https://kahoot.it/challenge/091806)  
+
+##### Kahoot quizzes
+[Reaction mechanisms](https://kahoot.it/challenge/0670544)
+[The Arrow-pushing](https://kahoot.it/challenge/0837568)  
+[Carbocation rearrangements](https://kahoot.it/challenge/029622)  
+[Radical reactions](https://kahoot.it/challenge/091806)  
 
 
 ===
