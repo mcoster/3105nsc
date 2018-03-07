@@ -8,11 +8,14 @@ hide_git_sync_repo_link: false
 ---
 
 ##### What do you need to do for the group presentation?  
-The course includes a [Group Presentation](https://bblearn.griffith.edu.au/bbcswebdav/xid-22718812_1) assessment item, where groups of 3-4 students will work together to teach others about a "Named Reaction" in organic chemistry.
+The course includes a [Group Presentation](https://bblearn.griffith.edu.au/bbcswebdav/xid-22775068_1) assessment item, where groups of 3-4 students will work together to teach others about a "Named Reaction" in organic chemistry.
+
+##### Slides Presented 7 March  
+[plugin:page-inject](/slides/group-assignment)
 
 ===
 
-**Note: A [PDF version of these instructions](https://bblearn.griffith.edu.au/bbcswebdav/xid-22718812_1) is available on Learning@Griffith**
+**Note: A [PDF version of these instructions](https://bblearn.griffith.edu.au/bbcswebdav/xid-22775068_1) is available on Learning@Griffith**
 
 #### Topic selection  
 You are now able to select a topic for your group presentation by heading to [Learning@Griffith](https://bblearn.griffith.edu.au/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_64774_1&handle=announcements_entry&mode=view) and clicking on _Group Assignment_ &rarr; _Topic selection / Group sign-up_. All students who select a topic will work on that topic as a group. There will be 3-4 students per group.
