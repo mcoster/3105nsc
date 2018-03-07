@@ -36,6 +36,58 @@ You can use textbooks, online materials, review articles and primary journal art
 #### Content  
 The presentation should present a brief background to the Named Reaction - eg. when was it first discovered and by who? What chemical transformation takes place? What reagents are normally used? You should provide a "curly arrow" mechanism for the reaction. Lastly, provide some examples of how the reaction has been used. You are particularly encouraged to find very recent examples of the use of this reaction in synthesis, eg. last 5 years.
 
+#### Originality
+
+An important requirement of this assignment is that *all chemistry material
+submitted* must be *created by the group members*. All chemical structures must
+be drawn by the team, and all text must be created by the team. *No cutting &
+pasting of any chemistry content is allowed, even with attribution/referencing*.
+You are, however, allowed to use non-chemistry content as eg. Background images,
+etc, as long as you have the right to do so. A safe option is to ensure that the
+images you use have been shared under a “Creative Commons” license. There are
+numerous websites with free, high definition images that can be used in this
+way, eg. Unsplash.com, Pexels.com, etc.
+
+#### Chemical structures
+
+As stated above, all chemical structures must be drawn by the group – no copying
+and pasting is allowed. As such, structures may be hand drawn or drawn using a
+variety of chemical structure drawing programs. The choice is up to the
+individual group and may be based on the format of the presentation, eg. a
+YouTube tutorial style video may be highly effective with neat, hand-drawn
+structures, whereas an infographic, webpage or presentation slides would look
+quite unprofessional.
+
+There are a large number of software packages available for chemical structure
+drawing. Here are some that are available for free:
+
+**cDraw** – this software has been created right here at Griffith University by
+A/Prof. Andreas Hofmann! It is completely free to use. It requires Java to be
+installed, meaning it will work on PC, Mac and Linux, but does not work on many
+mobile devices, eg. iPhones, iPads, etc. It is currently being actively
+developed and enhanced, so feel free to send Andy feedback!  
+<http://www.structuralchemistry.org/pcsb/cdraw.php>
+
+**MarvinSketch** – this software is part of a much larger, comprehensive suite
+of chemistry programs. It is available for free for educational purposes under a
+restricted license. To make the structure look nice, you will need to go to the
+menu: *File* → *Document Style* → *Settings* → *Apply journal style preset* and
+select a style from the menu. “ACS” is a good all-round choice.  
+<https://chemaxon.com/products/marvin>
+
+**ChemDoodle** – very slick interface, however, only available for free as a
+“trial” version.  
+<https://www.chemdoodle.com/>
+
+**ACD/ChemSketch** – is available free for academic and personal use.  
+<http://www.acdlabs.com/resources/freeware/chemsketch/>
+
+**BKChem** – until cDraw was developed at Griffith, BKChem was one of the few
+simple, completely free chemical structure drawing programs. Unfortunately, it
+appears to no longer be actively developed and has a few bugs. Nevertheless, if
+you have trouble with the other software above, it may be worth trying.  
+<http://bkchem.zirael.org/>
+
 #### Length  
 Due to the variety of formats available, there are no set limitations on length of the assignment. Students should provide a presentation that adequately teaches the topic without being comprehensive. Students should aim for their presentation to be digestible within a ~ 10 minute timeframe, ie. a video that is shorter than 10 minutes, or an infographic that takes less than 10 minutes to read.  
 
