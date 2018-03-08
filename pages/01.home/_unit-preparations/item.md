@@ -1,5 +1,5 @@
 ---
-title: 'Class Preparations'
+title: 'Cycle 1 Revision'
 published: true
 header_image_file: study.jpeg
 ---
