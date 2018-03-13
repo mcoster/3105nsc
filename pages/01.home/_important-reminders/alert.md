@@ -4,6 +4,6 @@ published: true
 ---
 
 ** Important Reminders **  
-* The [BACON tutorial](https://learnbacon.com/) on Radicals closes 8 am, Monday 12 March
-* **Quiz #1** will start 8:30 am sharp in N18, Theatre 2 next Monday, 12 March
-* A reminder that you can bring 1 x A4 page (single-sided) of _hand-written_ notes to the Quiz
+* The [BACON tutorial](https://learnbacon.com/) on Aldehydes and Ketones closes 8 am, Monday 19 March  
+* Cycle 2 is entirely delivered and assessed by A/Prof. Yun Feng - her notes are on Learning@Griffith  
+* I will alert students when Quiz 1 is marked and the results made available  
