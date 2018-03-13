@@ -1,6 +1,6 @@
 ---
 title: 'Cycle 1 Revision'
-published: true
+published: false
 header_image_file: study.jpeg
 ---
 
