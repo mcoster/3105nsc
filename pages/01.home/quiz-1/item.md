@@ -1,8 +1,8 @@
 ---
 title: 'Quiz 1 feedback'
 media_order: ben-white-197668-unsplash.jpg
-published: false
-date: '27-09-2017 00:00'
+published: true
+date: '19-03-2018 11:18'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
