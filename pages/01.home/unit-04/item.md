@@ -11,14 +11,14 @@ hide_git_sync_repo_link: false
 ##### Quiz 1   
 Marks are online at Learning@Griffith.
 [Short answer questions - Sample answers (PDF)](https://bblearn.griffith.edu.au/bbcswebdav/xid-23160147_1)  
-[Explainer videos - YouTube playlist with a video explainer for each short answer question](https://www.youtube.com/playlist?list=PLPzKNZGxdSvykgSv20QCl2HaEgFGlqzT9)  
+[Explainer videos](https://www.youtube.com/playlist?list=PLPzKNZGxdSvykgSv20QCl2HaEgFGlqzT9) - YouTube playlist with a video explainer for each short answer question  
 
 ===
 
 ##### Quiz 1   
 Marks are online at Learning@Griffith.
 [Short answer questions - Sample answers (PDF)](https://bblearn.griffith.edu.au/bbcswebdav/xid-23160147_1)  
-[Explainer videos - YouTube playlist with a video explainer for each short answer question](https://www.youtube.com/playlist?list=PLPzKNZGxdSvykgSv20QCl2HaEgFGlqzT9)  
+[Explainer videos](https://www.youtube.com/playlist?list=PLPzKNZGxdSvykgSv20QCl2HaEgFGlqzT9) - YouTube playlist with a video explainer for each short answer question  
 
 ##### Quiz 1 feedback and future quiz study tips  
 Now that Quiz 1 marks and worked answers are online, I wanted to share a few tips about how to get the best mark you can for this course, going forward:  
