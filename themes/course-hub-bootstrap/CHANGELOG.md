@@ -1,3 +1,42 @@
+# v2.2.0
+## 03/28/2018
+
+1. [](#bugfix)
+    * Corrected H5P content page blueprint
+
+# v2.1.9
+## 03/28/2018
+
+1. [](#new)
+    * Added experimental H5P content page template
+
+# v2.1.8
+## 03/15/2018
+
+1. [](#improved)
+    * Changed theme author information to Hibbitts Design
+
+# v2.1.7
+## 03/11/2018
+
+1. [](#improved)
+    * Added experimental CSS styling files for light and dark grey site navbar
+    * Updated ReadMe file
+
+# v2.1.6
+## 03/01/2018
+
+1. [](#improved)
+    * Better aligned Git Sync Link Twig code with other Git Sync themes
+
+# v2.1.5
+## 02/27/2018
+
+1. [](#improved)
+    * Updated 'basic', 'intermediate' and 'advanced' course examples in theme '_demo' folder
+1. [](#bugfix)
+    * Corrected display of default modular template
+
 # v2.1.4
 ## 02/20/2018
 
@@ -699,7 +738,7 @@
 ## 09/15/2016
 
 1. [](#bugfix)
-    * Fixed display issue with 'Featured' posts
+    * Fixed display issue with 'featured' posts
 
 # v1.4.3
 ## 08/28/2016
