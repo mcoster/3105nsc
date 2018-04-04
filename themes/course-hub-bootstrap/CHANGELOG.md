@@ -1,3 +1,44 @@
+# v2.2.5
+## 04/03/2018
+
+1. [](#improved)
+    * Theme shortcodes are now automatically loaded (`Custom Shortcodes` field in ShortCode Plugin no longer to be manually updated)
+
+# v2.2.4
+## 04/02/2018
+
+1. [](#new)
+    * Added H5P Shortcode button in Admin Panel page content editor
+1. [](#improved)
+    * Change default alignment for Embedly Card pages
+    * Updated support for hiding sidebar on Custom Content List pages
+    * Updated 'advanced' course examples in theme '_demo' folder
+
+# v2.2.3
+## 03/31/2018
+
+1. [](#new)
+    * Added experimental H5P Shortcode support (in the formats of [h5p id=ID] and [h5p url=URL])
+    * Added experimental Embed.ly Card Shortcode support (in the format of [embedly url=URL])
+    * Added experimental Swipe Shortcode support (in the format of [swipe id=ID])
+1. [](#improved)
+    * Added additional help text to H5P content page blueprint
+    * Updated 'basic', and 'intermediate' course examples in theme '_demo' folder
+
+# v2.2.2
+## 03/30/2018
+
+1. [](#improved)
+    * Updated H5P content page blueprint
+1. [](#bugfix)
+    * Temporarily changed H5P content item reference to node (ID) only
+
+# v2.2.1
+## 03/30/2018
+
+1. [](#improved)
+    * Updated example H5P content pages in 'advanced' course examples in theme '_demo' folder
+
 # v2.2.0
 ## 03/28/2018
 
