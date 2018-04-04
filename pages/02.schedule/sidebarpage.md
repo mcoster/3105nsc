@@ -47,7 +47,7 @@ hide_git_sync_repo_link: false
 
 #### :fa-calendar: Week 7 (23 - 29 Apr)
 **Quiz #3**  
-:fa-file-o: Quiz #3, 8.30 am, Mon 30 April (N18_Theatre 2)  
+:fa-file-o: Quiz #3, 8.30 am, Mon 23 April (N18_Theatre 2)  
 :fa-pencil: Complete _Polymers_ [BACON tutorial](https://learnbacon.com/) by 30 Apr  
 :fa-flask: Lab classes start this week  
 :fa-calendar-times: _No classes 25 April_ (ANZAC Day)
