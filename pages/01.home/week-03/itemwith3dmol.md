@@ -1,9 +1,9 @@
 ---
-title: 'Week 3 (26 Feb - 4 Mar)'
+title: '3dmol.js test'
 date: 02/19/2018
-published: true
+published: false
 header_image: Diels-Alder_banner.jpg
-hide_from_post_list: false
+hide_from_post_list: true
 hide_git_sync_repo_link: false
 js: 'var $3Dmol=$3Dmol||{},$=jQuery||{},initShapes=function(o){$.get("/home/week-03/cp.cub",function(e){var a=new $3Dmol.VolumeData(e,"cube");o.addIsosurface(a,{isoval:.01,color:"blue",alpha:.95,smoothness:10}),o.addIsosurface(a,{isoval:-.01,color:"red",alpha:.95,smoothness:10}),o.setStyle({},{stick:{}}),o.zoomTo(),o.render()},"text")};'
 ---
