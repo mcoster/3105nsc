@@ -8,6 +8,8 @@ hide_git_sync_repo_link: false
 
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>  
 <script>
+                var $3Dmol = $3Dmol || {};
+                var $ = jQuery || {};
                 var initShapes = function(viewer) {
                 $.get('unit-12/cp.cube', function(data){
                     var voldata = new $3Dmol.VolumeData(data, "cube");
