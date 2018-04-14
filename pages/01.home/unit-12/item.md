@@ -11,7 +11,7 @@ hide_git_sync_repo_link: false
                 var $3Dmol = $3Dmol || {};
                 var $ = jQuery || {};
                 var initShapes = function(viewer) {
-                $.get('unit-12/cp.cube', function(data){
+                $.get('unit-12/cp.cub', function(data){
                     var voldata = new $3Dmol.VolumeData(data, "cube");
                     viewer.addIsosurface(voldata, {isoval: 0.01, color: "blue", alpha: 0.95, smoothness: 10});              
                     viewer.addIsosurface(voldata, {isoval: -0.01, color: "red", alpha: 0.95, smoothness: 10}); 
