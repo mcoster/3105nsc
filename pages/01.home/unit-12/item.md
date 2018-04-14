@@ -8,4 +8,4 @@ hide_git_sync_repo_link: false
 
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>  
 
-<div style="height: 300px; width: 300px; position: relative;" class='viewer_3Dmoljs' data-href='unit-12/cp.cub' data-datatype='cube' data-style='stick' data-backgroundcolor='0xf6f6f6'></div>
+<div style="height: 300px; width: 300px; position: relative;" class='viewer_3Dmoljs' data-href='unit-12/cp.cub' data-datatype='cube' data-style='stick' data-surface1='isoval:0.01;color:blue;opacity:.95;smoothness:10' data-surface2='isoval:-0.01;color:red;opacity:.95;smoothness:10' data-backgroundcolor='0xf6f6f6'></div>
