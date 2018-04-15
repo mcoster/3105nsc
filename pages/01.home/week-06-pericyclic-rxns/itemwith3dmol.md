@@ -42,14 +42,17 @@ However, regioselectivity is sufficiently complex to deserve its own video:
 
 [plugin:youtube](https://youtu.be/cFGgZ7BtzKY)  
 
-A classic example of the Diels&ndash;Alder reaction is that between cyclopentadiene and maleic anhydride. The reaction is very fast at room temperature due to the high reactivity of both the diene and dienophile. Cyclopentadiene is held in the s-_cis_ conformation with both reactive ends of the diene system held close together by the 5-membered ring. Maleic anhydride is a reactive dienophile due to the two electron-withdrawing carbonyl groups. Another important feature is the overwhelming selectivity for the _endo_ vs the thermodynamically more stable _exo_ isomer.  
+A classic example of the Diels&ndash;Alder reaction is that between cyclopentadiene and maleic anhydride. The reaction is very fast at room temperature due to the high reactivity of both the diene and dienophile. Cyclopentadiene is held in the s-_cis_ conformation with both reactive ends of the diene system held close together by the 5-membered ring. Maleic anhydride is a reactive dienophile due to the two electron-withdrawing carbonyl groups. Here are interactive models of the calculated diene HOMO and dienophile LUMO. Note that they are more complex than the approximations we do on paper by simply adding together p orbitals - real molecular orbitals involve all atoms within the molecule. However, you can see the orbitals are largest at the sites of reaction, and you should also be able to see that the phases of each are suitable for the [4+2]-cycloaddition to occur.  
+
+| #####Cyclopentadiene HOMO | #####Maleic anhydride LUMO |
+| -------------------- | --------------------- |
+| <div style="height: 200px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes1' data-backgroundcolor='0xf6f7f9'></div> | <div style="height: 200px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/ma.sdf' data-datatype='sdf' data-callback='initShapes2' data-backgroundcolor='0xf6f7f9'></div> |  
+
+Another important feature is the overwhelming selectivity for the _endo_ vs the thermodynamically more stable _exo_ isomer.  
 
 ![Cyclopentadiene + maleic anhydride Diels-Alder reaction](endo-vs-exo.png)
 
 
-| Cyclopentadiene HOMO | Maleic anhydride LUMO |
-| -------------------- | --------------------- |
-| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes1' data-backgroundcolor='0xf6f6f6'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/ma.sdf' data-datatype='sdf' data-callback='initShapes2' data-backgroundcolor='0xf6f6f6'></div> |
 
 
 
