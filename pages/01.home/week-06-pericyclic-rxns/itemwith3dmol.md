@@ -5,7 +5,7 @@ date: '15-04-2018 09:00'
 header_image: Diels-Alder_banner.jpg
 hide_from_post_list: true
 hide_git_sync_repo_link: false
-js: 'var initShapes=function(o){$.get("week-06-pericyclic-rxns/cp.cub",function(e){var a=new $3Dmol.VolumeData(e,"cube");o.addIsosurface(a,{isoval:.01,color:"blue",alpha:.95,smoothness:10}),o.addIsosurface(a,{isoval:-.01,color:"red",alpha:.95,smoothness:10}),o.setStyle({},{stick:{}}),o.zoomTo(),o.render()},"text")};'
+js: 'var initShapes1=function(o){$.get("week-06-pericyclic-rxns/cp.cub",function(e){var a=new $3Dmol.VolumeData(e,"cube");o.addIsosurface(a,{isoval:.01,color:"blue",alpha:.95,smoothness:10}),o.addIsosurface(a,{isoval:-.01,color:"red",alpha:.95,smoothness:10}),o.setStyle({},{stick:{}}),o.zoomTo(),o.render()},"text")};var initShapes2=function(o){$.get("week-06-pericyclic-rxns/ma.cub",function(e){var a=new $3Dmol.VolumeData(e,"cube");o.addIsosurface(a,{isoval:.01,color:"blue",alpha:.95,smoothness:10}),o.addIsosurface(a,{isoval:-.01,color:"red",alpha:.95,smoothness:10}),o.setStyle({},{stick:{}}),o.zoomTo(),o.render()},"text")};'
 ---
 
 #### Readings - Pericyclic reactions
@@ -27,8 +27,29 @@ To understand pericyclic reactions, it is important to comprehend conjugated pi 
 
 [h5p url="https://organicchemexplained.com/wp-admin/admin-ajax.php?action=h5p_embed&id=3"]
 
-<-- Cyclopentadiene HOMO 3dmol.js -->
-<div style="height: 300px; width: 300px; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes' data-backgroundcolor='0xf6f6f6'></div>  
+#### Types of pericyclic reactions  
+
+There are three types of pericyclic reaction, each involving different numbers of &sigma; and &pi; bonds being formed and broken. However, all pericyclic reactions have some key features in common:  
+
+[plugin:youtube](https://youtu.be/cib2EKbny9E)
+
+#### Cycloaddition reactions  
+Among cycloaddition reactions, the Diels&ndash;Alder reaction is the most common and most important. There are a number of key features to master:  
+
+[plugin:youtube](https://youtu.be/TvPZvE2wCCY)
+
+However, regioselectivity is sufficiently complex to deserve its own video:  
+
+[plugin:youtube](https://youtu.be/cFGgZ7BtzKY)  
+
+A classic example of the Diels&ndash;Alder reaction is that between cyclopentadiene and maleic anhydride. The reaction is very fast at room temperature due to the high reactivity of both the diene and dienophile. Cyclopentadiene is held in the s-_cis_ conformation with both reactive ends of the diene system held close together by the 5-membered ring. Maleic anhydride is a reactive dienophile due to the two electron-withdrawing carbonyl groups. Another important feature is the overwhelming selectivity for the _endo_ vs the thermodynamically more stable _exo_ isomer.  
+
+![Cyclopentadiene + maleic anhydride Diels-Alder reaction](endo-vs-exo.png)
+
+
+| Cyclopentadiene HOMO | Maleic anhydride LUMO |
+| -------------------- | --------------------- |
+| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes1' data-backgroundcolor='0xf6f6f6'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/ma.sdf' data-datatype='sdf' data-callback='initShapes2' data-backgroundcolor='0xf6f6f6'></div> |
 
 
 
@@ -42,7 +63,7 @@ For this cycle, you will need to read [Chapter 6 of Klein]((https://ebookcentral
 ##### Kinetic vs thermodynamic control  
 A key concept to master in organic chemistry is the difference between _kinetic_ and _thermodynamic_ control in reaction outcomes. As you watch this video, consider this question - _why is there sometimes a difference between the kinetic and the thermodynamic products of a reaction?_  
 
-[plugin:youtube](https://www.youtube.com/watch?v=-HLU4uJ8Ev8)
+
 
 For an unusual take on thermodynamic vs kinetic control, [read this post](https://www.masterorganicchemistry.com/2012/02/09/can-opener-economics/) at Master Organic Chemistry (MOC).  
 
@@ -55,7 +76,7 @@ Now that you've watched the video, _can you think of any situations where the po
 ##### Curly arrows in ionic mechanisms  
 Moving away from energy diagrams, perhaps the most important skill for an organic chemist in proposing a mechanism is the ability to "push" curly arrows. Here are some guidelines about the four types of steps that can be combined together to show mechanisms for the majority of organic reactions:  
 
-[plugin:youtube](https://www.youtube.com/watch?v=OrIy0xpZgmA)  
+
 
 I mention in that video that carbon atoms with 5 bonds are "against the rules". What rules am I talking about? Why is this the case? This is actually one of the most common mistakes made by undergraduate students in exams and quizzes. The pentavalent carbon atom, or [_"Texas carbon"_](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/), sticks out like a sore thumb to experienced chemists. _What tricks could you use to avoid making a "Texas carbon" mistake in a quiz?_  
 
