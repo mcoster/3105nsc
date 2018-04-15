@@ -56,7 +56,11 @@ Another important feature is the overwhelming selectivity for the _endo_ vs the 
 | -------------------- | --------------------- |
 | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
 
+There has been very active debate for decades about why Diels&ndash;Alder reactions are normally selective for the endo products, and several theories have been advanced. One of the most highly accepted has been 'secondary orbital interactions' - see page 2 of [these notes](http://www.massey.ac.nz/~gjrowlan/stereo/lecture8.pdf). However, like many useful theories, it is probably not highly accurate. The bottom line is that the endo products are kinetically favoured and therefore the transition state leading to the endo product must be lower in energy than that leading to the exo product. Recent density functional theory (DFT) level calculations have shed further light on the nature of this selectivity. For this course, we will simply note endo selectivity as a general, empirical rule and move along.  
 
+| Endo transition state | Exo transition state |
+| -------------------- | --------------------- |
+| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
 
 ### Cycle 1: Reaction mechanisms  
 
