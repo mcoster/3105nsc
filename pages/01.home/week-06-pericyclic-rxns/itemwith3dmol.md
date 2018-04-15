@@ -1,7 +1,7 @@
 ---
 title: 'Week 6 (16 Apr - 22 Apr): Pericyclic reactions'
 published: true
-date: '15-04-2018 09:00'
+date: '15-04-2018 14:40'
 header_image: Diels-Alder_banner.jpg
 hide_from_post_list: true
 hide_git_sync_repo_link: false
@@ -62,45 +62,47 @@ There has been very active debate for decades about why Diels&ndash;Alder reacti
 | -------------------- | --------------------- |
 | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
 
-### Cycle 1: Reaction mechanisms  
+#### Electrocyclic reactions  
 
-#### Before the lectures  
-Reaction mechanisms fascinate organic chemists. Why is that? A mechanism, like any scientific theory, can never be _proven_. So, why bother? Have a think about it and we will discuss it in class.  
+In exlectrocyclic reactions, it is important to look at the HOMO of the reactant. To form product, the reacting ends of the &pi; system must rotate in such a way that the orbital lobes of the same phase interact with each other. The same symmetry requirements apply to the reverse reactions - electrocyclic ring openings. This video shows imprtant factors in the thermal electrocyclization:  
 
-For this cycle, you will need to read [Chapter 6 of Klein]((https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)) and watch the following _Key Concept_ videos. Do it in either order - whatever works for you.
+[plugin:youtube](https://youtu.be/oepzwSO7w5Y)  
 
-##### Kinetic vs thermodynamic control  
-A key concept to master in organic chemistry is the difference between _kinetic_ and _thermodynamic_ control in reaction outcomes. As you watch this video, consider this question - _why is there sometimes a difference between the kinetic and the thermodynamic products of a reaction?_  
+When electrocyclic reactions are conducted under photochemical conditions, the symmetry of the terminal lobes of the excited state HOMO are opposite to the thermal case:  
 
+[plugin:youtube](https://youtu.be/vwpNN_r9P0A)  
 
+#### Sigmatropic rearrangements  
 
-For an unusual take on thermodynamic vs kinetic control, [read this post](https://www.masterorganicchemistry.com/2012/02/09/can-opener-economics/) at Master Organic Chemistry (MOC).  
+Sigmatropic rearrangements are generally reversible and involve no change in the total number of &pi; and &sigma; bonds. However, structural features of reactant vs product(s) can result in equilibriu favouring certain species over others. This video also shows how to name sigmatropic rearrangements according to an [x,y] naming convention:  
 
-##### The Hammond postulate  
-Next up is the _Hammond postulate:_  
+[plugin:youtube](https://youtu.be/_cYOXIMssQc)  
 
-[plugin:youtube](https://www.youtube.com/watch?v=Et0Y7z-sLUg)  
-Now that you've watched the video, _can you think of any situations where the postulate might be useful in predicting or explaining a reaction outcome?_ For further discussion of the Hammond postulate, read [this post](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/) at MOC.  
+#### Practice question  
 
-##### Curly arrows in ionic mechanisms  
-Moving away from energy diagrams, perhaps the most important skill for an organic chemist in proposing a mechanism is the ability to "push" curly arrows. Here are some guidelines about the four types of steps that can be combined together to show mechanisms for the majority of organic reactions:  
+Here's a quick question for you as revision - can you drag these labels to the appropriate reactions that they describe?  
 
+[h5p url="https://organicchemexplained.com/wp-admin/admin-ajax.php?action=h5p_embed&id=4"]
 
-
-I mention in that video that carbon atoms with 5 bonds are "against the rules". What rules am I talking about? Why is this the case? This is actually one of the most common mistakes made by undergraduate students in exams and quizzes. The pentavalent carbon atom, or [_"Texas carbon"_](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/), sticks out like a sore thumb to experienced chemists. _What tricks could you use to avoid making a "Texas carbon" mistake in a quiz?_  
 
 ### Further information  
 
-#### Week 1 Lecture notes  
-[Cycle 1: Introduction](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775152_1)  
-[Cycle 1: Lectures 1-2](https://bblearn.griffith.edu.au/bbcswebdav/xid-21775154_1)  
+#### Cycle 3 Lecture notes  
+[Cycle 3: Lecture notes](https://bblearn.griffith.edu.au/bbcswebdav/xid-23820555_1)   
 
 #### Further video resources  
-If you would like further explanation of these concepts in long-form lecture format, below are the lecture capture recordings for this cycle from 2017. _Note:_ You need to be logged in through Griffith University to access.  
-[Reaction mechanisms - Lecture 1](https://echo360.org.au/media/4e2623ca-5bab-4a9c-a73c-43f941969495/public)  
-[Reaction mechanisms - Lecture 2](https://echo360.org.au/media/358e9ae5-1fb8-41f1-8aa1-c472106e5946/public)  
+If you would like further explanation of these concepts in long-form lecture format, below are the lecture capture recordings for Pericyclic reactions from 2017. _Note:_ You need to be logged in through Griffith University to access.  
+[Pericyclic reactions - Lectures 1-2](https://echo360.org.au/media/48fce893-55e9-44e8-9690-aeff12522d96/public)  
+[Pericyclic reactions - Lecture 3](https://echo360.org.au/media/2edf0cb9-9d61-42bd-a916-4940131d4e86/public)  
+
+#### Supplemental interactive and video resources  
+
+[An interactive look at endo vs exo at ChemTube3D](http://www.chemtube3d.com/DAendo_vs_exo,cyclopentadiene_and_maleic_anhydride.html)  
+[An interactive look at D-A regioselectivity at ChemTube3D](http://www.chemtube3d.com/DARegioselectivity.html)  
+[Pericyclic reaction movies](http://csi.chemie.tu-darmstadt.de/ak/immel/tutorials/reactions/index.html) by [Stefan Immel](http://csi.chemie.tu-darmstadt.de/ak/immel/index.html)  
 
 #### Supplemental Readings  
-[Kinetics vs thermodynamics](https://www.masterorganicchemistry.com/2012/02/09/can-opener-economics/)  
-[The Hammond postulate](https://www.masterorganicchemistry.com/2011/09/28/hammonds-postulate/)  
-[Common mistakes in organic chemistry - the pentavalent carbon atom](https://www.masterorganicchemistry.com/common-mistakes-in-organic-chemistry-pentavalent-carbon/)
+
+[Recognizing endo vs exo](https://www.masterorganicchemistry.com/tips/recognizing-endo-and-exo/)  
+[Exo vs Endo Products In The Diels Alder: How To Tell Them Apart](https://www.masterorganicchemistry.com/2018/02/09/exo-vs-endo-products-in-the-diels-alder-how-to-tell-them-apart/)  
+[Molecular orbitals in the Diels-Alder reaction](https://www.masterorganicchemistry.com/2018/03/23/molecular-orbitals-in-the-diels-alder-reaction/)
