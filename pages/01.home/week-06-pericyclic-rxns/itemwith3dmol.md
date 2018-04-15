@@ -1,7 +1,7 @@
 ---
 title: 'Week 6 (16 Apr - 22 Apr): Pericyclic reactions'
 date: '15-04-2018 09:00'
-published: false
+published: true
 header_image: Diels-Alder_banner.jpg
 hide_from_post_list: true
 hide_git_sync_repo_link: false
@@ -9,27 +9,29 @@ js: 'var initShapes=function(o){$.get("week-06-pericyclic-rxns/cp.cub",function(
 
 ---
 
-#### What is this course all about?
-[Course Profile](https://courseprofile.secure.griffith.edu.au/student_section_loader.php?section=1&profileId=99275)
-
-#### Where shall we begin?
-[BACON tutorials](https://learnbacon.com)  
-[_Organic Chemistry_, 3rd ed. by Klein, Chapter 6](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=246)  
+#### Readings - Pericyclic reactions
+[Klein, Chapter 16, Sections 16.1-16.10 - Conjugated Pi Systems and Pericyclic Reactions](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=721)  
 
 ===
+
+### Cycle 3: Pericyclic reactions  
+
+#### Before the lectures  
+
+To prepare for this cycle, you should read [Sections 16.1-16.10 from Klein](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589&ppg=721), all of which are assessable. The early sections (16.1-16.7) may be familiar from previous organic chemistry courses.  
+
+The most relevant problems from this chapter are 16.39, 16.40, 16.42-16.46, 16.50-16.58, 16.64-16.68, 16.70-16.72 and 16.74-16.76. Problems 16.78-16.81 are good for a challenge!  
+
+#### Pi molecular orbitals  
+
+To understand pericyclic reactions, it is important to comprehend conjugated pi systems and particularly the pi molecular orbitals that are produced by combining contiguous p orbitals. Can you arrange the following pi molecular orbitals from lowest to highest in energy?  
+
+[h5p url="https://h5p.org/h5p/embed/34141"]
 
 <-- Cyclopentadiene HOMO 3dmol.js -->
 <div style="height: 300px; width: 300px; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes' data-backgroundcolor='0xf6f6f6'></div>  
 
 
-### Welcome  
-Welcome to 3105NSC Advanced Organic Chemistry for T1, 2018. If you haven't already, then you should sign up for the [BACON tutorials](https://learnbacon.com) using the details provided in the Announcement on Learning@Griffith. Tackling these tutorials is the best way to prepare for this class.  
-
-##### Preparatory work
-This year the course will run substantially differently to previous years, and will likely be different in structure to most other science courses you have taken. The course material is split into 5 cycles. For each of the cycles that I ([Mark](https://mcoster.net)) teach, you will need to undertake readings from the required textbook, other sources and to watch some _"Key Concept"_ videos that I have prepared. Doing this preparatory work before lectures will allow us to use lecture time to focus on application, analysis and problem solving using these concepts. I host the videos on YouTube - you can [subscribe to my channel](https://www.youtube.com/channel/UCFCx1oD6NEtnyf-PExyDwlw?view_as=subscriber) and be notified when I post new ones. All my videos for this course will go into the ["Organic chemistry key concepts" playlist](https://www.youtube.com/watch?v=-HLU4uJ8Ev8&list=PLPzKNZGxdSvwOlUUxtoHsL6C--A1_gt8N). Also, please feel free to leave a comment, particularly constructive feedback - it's always good to know how things could be improved.
-
-##### Required text  
-The required text for this course is _Organic Chemistry_, 3rd edition, by Klein. Some of you may have used the 2nd edition previously, which is still satisfactory for much of the material covered in this course. However, the material in Cycle 4 is entirely absent from the 2nd edition. The E-Text version of this textbook is [available from Wiley Direct](http://www.wileydirect.com.au/buy/organic-chemistry-3rd-edition/) for $65 or for $85 with access to additional homework, practice questions and interactive study tools. Numerous studies have shown that undertaking practice tests and assessments are highly effective study techniques, much better than repeated reading, so the additional expense may be a wise investment. There is also an electronic version of this textbook [available through the Griffith University library, via ProQuest](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/reader.action?docID=4806589). Note that the hardcopy versions of this 3rd edition are not yet available in Australia.
 
 ### Cycle 1: Reaction mechanisms  
 
