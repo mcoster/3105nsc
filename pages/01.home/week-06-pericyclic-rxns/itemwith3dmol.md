@@ -21,7 +21,7 @@ To prepare for this cycle, you should read [Sections 16.1-16.10 from Klein](http
 
 #### Pi molecular orbitals  
 
-To understand pericyclic reactions, it is important to comprehend conjugated pi systems and particularly the pi molecular orbitals that are produced by combining contiguous p orbitals. Can you arrange the following &pi; molecular orbitals from lowest to highest in energy?  
+To understand pericyclic reactions, it is important to comprehend conjugated &pi; systems and particularly the &pi; molecular orbitals that are produced by combining contiguous p orbitals. Can you arrange the following &pi; molecular orbitals from lowest to highest in energy?  
 
 [h5p url="https://organicchemexplained.com/wp-admin/admin-ajax.php?action=h5p_embed&id=3"]
 
