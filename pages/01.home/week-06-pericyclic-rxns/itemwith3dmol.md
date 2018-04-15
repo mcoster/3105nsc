@@ -1,12 +1,11 @@
 ---
 title: 'Week 6 (16 Apr - 22 Apr): Pericyclic reactions'
-date: '15-04-2018 09:00'
 published: true
+date: '15-04-2018 09:00'
 header_image: Diels-Alder_banner.jpg
 hide_from_post_list: true
 hide_git_sync_repo_link: false
 js: 'var initShapes=function(o){$.get("week-06-pericyclic-rxns/cp.cub",function(e){var a=new $3Dmol.VolumeData(e,"cube");o.addIsosurface(a,{isoval:.01,color:"blue",alpha:.95,smoothness:10}),o.addIsosurface(a,{isoval:-.01,color:"red",alpha:.95,smoothness:10}),o.setStyle({},{stick:{}}),o.zoomTo(),o.render()},"text")};'
-
 ---
 
 #### Readings - Pericyclic reactions
@@ -26,7 +25,7 @@ The most relevant problems from this chapter are 16.39, 16.40, 16.42-16.46, 16.5
 
 To understand pericyclic reactions, it is important to comprehend conjugated pi systems and particularly the pi molecular orbitals that are produced by combining contiguous p orbitals. Can you arrange the following pi molecular orbitals from lowest to highest in energy?  
 
-[h5p url="https://h5p.org/h5p/embed/34141"]
+[h5p url="https://organicchemexplained.com/wp-admin/admin-ajax.php?action=h5p_embed&id=2"]
 
 <-- Cyclopentadiene HOMO 3dmol.js -->
 <div style="height: 300px; width: 300px; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/cp.sdf' data-datatype='sdf' data-callback='initShapes' data-backgroundcolor='0xf6f6f6'></div>  
