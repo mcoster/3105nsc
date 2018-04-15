@@ -60,7 +60,7 @@ There has been very active debate for decades about why Diels&ndash;Alder reacti
 
 | Endo transition state | Exo transition state |
 | -------------------- | --------------------- |
-| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
+| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo-ts.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
 
 ### Cycle 1: Reaction mechanisms  
 
