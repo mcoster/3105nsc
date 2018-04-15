@@ -54,7 +54,7 @@ Another important feature is the overwhelming selectivity for the _endo_ vs the 
 
 | Endo product | Exo product |
 | -------------------- | --------------------- |
-| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9'></div> |  
+| <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/endo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> | <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='week-06-pericyclic-rxns/exo.sdf' data-datatype='sdf' data-backgroundcolor='0xf6f7f9' data-style='stick'></div> |  
 
 
 
