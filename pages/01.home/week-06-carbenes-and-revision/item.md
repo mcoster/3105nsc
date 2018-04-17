@@ -46,7 +46,7 @@ Worked answers:
 ### Further information  
 
 #### Cycle 3 Lecture notes  
-[Cycle 3: Lecture notes](https://bblearn.griffith.edu.au/bbcswebdav/xid-23820555_1)  
+[Cycle 3: Lecture notes](https://bblearn.griffith.edu.au/bbcswebdav/xid-24349889_1)  
 
 #### Practice problems  
 The most relevant problems from Klein (3rd ed.) are 16.39, 16.40, 16.42-16.46, 16.50-16.58, 16.64-16.68, 16.70-16.72 and 16.74-16.76. Problems 16.78-16.81 are good for a challenge!  
