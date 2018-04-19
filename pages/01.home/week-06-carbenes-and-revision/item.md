@@ -29,8 +29,8 @@ Apart from that, the lecture and [lecture notes](https://bblearn.griffith.edu.au
 In Week 6, we have tutorials on Thursday. Feel free to come along, armed with any questions you may have from the revision sheet below, the past quiz, Kahoot quizzes below, from the textbook or any other question from the course.  
 
 #### Revision materials  
-[Revision questions](https://bblearn.griffith.edu.au/bbcswebdav/xid-24354033_1) - worked answers will be posted Thursday afternoon  
-[A past quiz](https://bblearn.griffith.edu.au/bbcswebdav/xid-24354084_1) - worked answers will be posted Thursday afternoon  
+[Revision questions](https://bblearn.griffith.edu.au/bbcswebdav/xid-24354033_1) - [worked answers](https://bblearn.griffith.edu.au/bbcswebdav/xid-24475712_1)  
+[A past quiz](https://bblearn.griffith.edu.au/bbcswebdav/xid-24354084_1) - [worked answers](https://bblearn.griffith.edu.au/bbcswebdav/xid-24475725_1)  
 
 #### Kahoot quizzes
 [Cycloaddition reactions](https://kahoot.it/challenge/0800581)  
