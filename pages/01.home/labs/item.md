@@ -49,7 +49,7 @@ When weighing at a balance, it is really important that material transfers occur
 
 [plugin:youtube](https://youtu.be/2zTRdT-0pGA)  
 
-#### Experiment 1  
+#### Experiment 1 <a id="experiment-1"></a>  
 
 ##### Setting up a reflux with a Claisen adapter and dropping funnel  
 [plugin:youtube](https://youtu.be/2KgWXsdcmDw)  
@@ -61,7 +61,7 @@ When weighing at a balance, it is really important that material transfers occur
 [plugin:youtube](https://youtu.be/vo042jiDKIc)  
 
 
-#### Experiment 2  
+#### Experiment 2 <a id="experiment-2"></a>   
 
 ##### Thin-layer chromatography (TLC)  
 [plugin:youtube](https://youtu.be/aJ2fYYKEfAI)  
