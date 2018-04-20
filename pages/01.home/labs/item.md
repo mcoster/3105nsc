@@ -2,7 +2,7 @@
 title: 'Laboratory'
 published: true
 date: '20-04-2018 15:57'
-header_image: lab-2107510_1280.jpg
+header_image: 'lab-2107510_1280.jpg'
 hide_from_post_list: false
 hide_git_sync_repo_link: false
 ---
