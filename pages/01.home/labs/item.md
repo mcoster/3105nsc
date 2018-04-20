@@ -42,7 +42,7 @@ The following videos have been prepared to help you familiarise yourself with ke
 - [Experiment 1 techniques](#experiment-1)
 - [Experiment 2 techniques](#experiment-2)
 
-#### General techniques  
+#### General techniques <a id="general-techniques"></a>  
 
 ##### Weighing chemicals  
 When weighing at a balance, it is really important that material transfers occur away from the balance pan, otherwise spilled chemicals quickly get into the balance mechanism and lead to damage. If any spills occur in the balance area, they must be cleaned up before moving on.  
