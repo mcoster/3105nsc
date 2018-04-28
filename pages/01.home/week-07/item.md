@@ -1,11 +1,11 @@
 ---
 title: 'Week 7 (30 Apr - 4 May): Organometallic reactions'
 published: true
-date: '28-04-2018 16:57'
+date: '28-04-2018 23:02'
 header_image: '1-Nobel_Laureates_for_Chemistry_2010.jpg'
 header_image_credit: 'BloodIce, CC BY-SA 4.0'
 header_image_creditlink: 'https://commons.wikimedia.org/wiki/File:Nobel_Laureates_for_Chemistry_2010.jpg'
-hide_from_post_list: true
+hide_from_post_list: false
 hide_git_sync_repo_link: false
 ---
 
