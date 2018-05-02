@@ -51,7 +51,7 @@ images you use have been shared under a “Creative Commons” license. There ar
 numerous websites with free, high definition images that can be used in this
 way, eg. Unsplash.com, Pexels.com, etc.
 
-#### Chemical structures
+#### Chemical structures <a id="chemical-structures"></a>  
 
 As stated above, all chemical structures must be drawn by the group – no copying
 and pasting is allowed. As such, structures may be hand drawn or drawn using a
