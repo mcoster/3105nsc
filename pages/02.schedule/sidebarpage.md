@@ -77,7 +77,7 @@ hide_git_sync_repo_link: false
 #### :fa-calendar: Week 12 (28 May - 3 June)
 **Quiz #5**   
 :fa-file-o: Quiz #5, 8.30 am, Mon 28 May (N18_Theatre 2)  
-:fa-file: First Lab report due Wed, 30 May  
+:fa-file: First Lab report due 5 pm Mon, 28 May  
 
 
 
